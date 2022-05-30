@@ -1,2 +1,2 @@
 # git-practice
-git practice practice well
+git practice practice well before try...
